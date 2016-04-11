@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "55e0189572197de0b563540cd8aae6d3",
+    "hash": "37f43b3a48b5418a95fcff2d6a971c12",
     "packages": [
         {
             "name": "classpreloader/classpreloader",
@@ -3160,6 +3160,45 @@
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
             "time": "2016-03-04 07:55:57"
+        },
+        {
+            "name": "zurb/foundation",
+            "version": "6.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zurb/foundation-sites.git",
+                "reference": "d79008091c6f32ffd9bd6ea60d266c4a76771886"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zurb/foundation-sites/zipball/d79008091c6f32ffd9bd6ea60d266c4a76771886",
+                "reference": "d79008091c6f32ffd9bd6ea60d266c4a76771886",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "ZURB, Inc.",
+                    "email": "foundation@zurb.com",
+                    "homepage": "http://zurb.com"
+                }
+            ],
+            "description": "The most advanced responsive front-end framework in the world.",
+            "homepage": "http://foundation.zurb.com",
+            "keywords": [
+                "JS",
+                "css",
+                "framework",
+                "mobile-first",
+                "responsive",
+                "sass",
+                "scss"
+            ],
+            "time": "2016-02-26 19:36:13"
         }
     ],
     "aliases": [],

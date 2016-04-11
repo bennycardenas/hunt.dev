@@ -1,2 +1,10 @@
 // @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
+@import 'motion-ui';
+@include motion-ui-transitions;
+
+@import 'foundation_custom_settings';
+@import 'foundation';
+@include foundation-everything;
+
+@import 'foundation_icons';
